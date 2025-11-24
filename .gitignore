@@ -1,0 +1,7 @@
+.gemini_key
+run_fixer.sh
+__pycache__
+*.pyc
+.DS_Store
+.venv
+env
